@@ -1,0 +1,333 @@
+vendor_name,amount,category,date,invoice_id,department
+AWS Infrastructure,28500.00,Cloud & Hosting,2024-01-15,INV-2001,Engineering
+AWS Infrastructure,28500.00,Cloud & Hosting,2024-02-15,INV-2045,Engineering
+AWS Infrastructure,29200.00,Cloud & Hosting,2024-03-15,INV-2091,Engineering
+AWS Infrastructure,29200.00,Cloud & Hosting,2024-04-15,INV-2134,Engineering
+AWS Infrastructure,30100.00,Cloud & Hosting,2024-05-15,INV-2178,Engineering
+AWS Infrastructure,30100.00,Cloud & Hosting,2024-06-15,INV-2223,Engineering
+AWS Infrastructure,31500.00,Cloud & Hosting,2024-07-15,INV-2267,Engineering
+AWS Infrastructure,31500.00,Cloud & Hosting,2024-08-15,INV-2312,Engineering
+AWS Infrastructure,32800.00,Cloud & Hosting,2024-09-15,INV-2356,Engineering
+AWS Infrastructure,32800.00,Cloud & Hosting,2024-10-15,INV-2401,Engineering
+AWS Infrastructure,34200.00,Cloud & Hosting,2024-11-15,INV-2445,Engineering
+AWS Infrastructure,34200.00,Cloud & Hosting,2024-12-15,INV-2490,Engineering
+Datadog Monitoring,4800.00,Cloud & Hosting,2024-01-10,INV-2002,Engineering
+Datadog Monitoring,4800.00,Cloud & Hosting,2024-02-10,INV-2046,Engineering
+Datadog Monitoring,4800.00,Cloud & Hosting,2024-03-10,INV-2092,Engineering
+Datadog Monitoring,4800.00,Cloud & Hosting,2024-04-10,INV-2135,Engineering
+Datadog Monitoring,5200.00,Cloud & Hosting,2024-05-10,INV-2179,Engineering
+Datadog Monitoring,5200.00,Cloud & Hosting,2024-06-10,INV-2224,Engineering
+Datadog Monitoring,5200.00,Cloud & Hosting,2024-07-10,INV-2268,Engineering
+Datadog Monitoring,5200.00,Cloud & Hosting,2024-08-10,INV-2313,Engineering
+Datadog Monitoring,5600.00,Cloud & Hosting,2024-09-10,INV-2357,Engineering
+Datadog Monitoring,5600.00,Cloud & Hosting,2024-10-10,INV-2402,Engineering
+Datadog Monitoring,5600.00,Cloud & Hosting,2024-11-10,INV-2446,Engineering
+Datadog Monitoring,5600.00,Cloud & Hosting,2024-12-10,INV-2491,Engineering
+CloudFlare CDN,1800.00,Cloud & Hosting,2024-01-20,INV-2005,Engineering
+CloudFlare CDN,1800.00,Cloud & Hosting,2024-02-20,INV-2049,Engineering
+CloudFlare CDN,1800.00,Cloud & Hosting,2024-03-20,INV-2095,Engineering
+CloudFlare CDN,1800.00,Cloud & Hosting,2024-04-20,INV-2138,Engineering
+CloudFlare CDN,1800.00,Cloud & Hosting,2024-05-20,INV-2182,Engineering
+CloudFlare CDN,1800.00,Cloud & Hosting,2024-06-20,INV-2227,Engineering
+CloudFlare CDN,1800.00,Cloud & Hosting,2024-07-20,INV-2271,Engineering
+CloudFlare CDN,1800.00,Cloud & Hosting,2024-08-20,INV-2316,Engineering
+CloudFlare CDN,1800.00,Cloud & Hosting,2024-09-20,INV-2360,Engineering
+CloudFlare CDN,1800.00,Cloud & Hosting,2024-10-20,INV-2406,Engineering
+CloudFlare CDN,1800.00,Cloud & Hosting,2024-11-20,INV-2450,Engineering
+CloudFlare CDN,1800.00,Cloud & Hosting,2024-12-20,INV-2495,Engineering
+HubSpot Marketing Hub,8500.00,Sales & Marketing Tools,2024-01-05,INV-2003,Marketing
+HubSpot Marketing Hub,8500.00,Sales & Marketing Tools,2024-02-05,INV-2047,Marketing
+HubSpot Marketing Hub,8500.00,Sales & Marketing Tools,2024-03-05,INV-2093,Marketing
+HubSpot Marketing Hub,8500.00,Sales & Marketing Tools,2024-04-05,INV-2136,Marketing
+HubSpot Marketing Hub,8500.00,Sales & Marketing Tools,2024-05-05,INV-2180,Marketing
+HubSpot Marketing Hub,8500.00,Sales & Marketing Tools,2024-06-05,INV-2225,Marketing
+HubSpot Marketing Hub,9200.00,Sales & Marketing Tools,2024-07-05,INV-2269,Marketing
+HubSpot Marketing Hub,9200.00,Sales & Marketing Tools,2024-08-05,INV-2314,Marketing
+HubSpot Marketing Hub,9200.00,Sales & Marketing Tools,2024-09-05,INV-2358,Marketing
+HubSpot Marketing Hub,9200.00,Sales & Marketing Tools,2024-10-05,INV-2403,Marketing
+HubSpot Marketing Hub,9200.00,Sales & Marketing Tools,2024-11-05,INV-2447,Marketing
+HubSpot Marketing Hub,9200.00,Sales & Marketing Tools,2024-12-05,INV-2492,Marketing
+Outreach.io,3200.00,Sales & Marketing Tools,2024-01-08,INV-2004,Sales
+Outreach.io,3200.00,Sales & Marketing Tools,2024-02-08,INV-2048,Sales
+Outreach.io,3200.00,Sales & Marketing Tools,2024-03-08,INV-2094,Sales
+Outreach.io,3200.00,Sales & Marketing Tools,2024-04-08,INV-2137,Sales
+Outreach.io,3200.00,Sales & Marketing Tools,2024-05-08,INV-2181,Sales
+Outreach.io,3200.00,Sales & Marketing Tools,2024-06-08,INV-2226,Sales
+Outreach.io,3200.00,Sales & Marketing Tools,2024-07-08,INV-2270,Sales
+Outreach.io,3200.00,Sales & Marketing Tools,2024-08-08,INV-2315,Sales
+Outreach.io,3200.00,Sales & Marketing Tools,2024-09-08,INV-2359,Sales
+Outreach.io,3200.00,Sales & Marketing Tools,2024-10-08,INV-2404,Sales
+Outreach.io,3200.00,Sales & Marketing Tools,2024-11-08,INV-2448,Sales
+Outreach.io,3200.00,Sales & Marketing Tools,2024-12-08,INV-2493,Sales
+Salesloft,2100.00,Sales & Marketing Tools,2024-01-12,INV-2006,Sales
+Salesloft,2100.00,Sales & Marketing Tools,2024-02-12,INV-2050,Sales
+Salesloft,2100.00,Sales & Marketing Tools,2024-03-12,INV-2096,Sales
+Salesloft,2100.00,Sales & Marketing Tools,2024-04-12,INV-2139,Sales
+Salesloft,2100.00,Sales & Marketing Tools,2024-05-12,INV-2183,Sales
+Salesloft,2100.00,Sales & Marketing Tools,2024-06-12,INV-2228,Sales
+Salesloft,2100.00,Sales & Marketing Tools,2024-07-12,INV-2272,Sales
+Salesloft,2100.00,Sales & Marketing Tools,2024-08-12,INV-2317,Sales
+Salesloft,2100.00,Sales & Marketing Tools,2024-09-12,INV-2361,Sales
+Salesloft,2100.00,Sales & Marketing Tools,2024-10-12,INV-2407,Sales
+Salesloft,2100.00,Sales & Marketing Tools,2024-11-12,INV-2451,Sales
+Salesloft,2100.00,Sales & Marketing Tools,2024-12-12,INV-2496,Sales
+6sense ABM Platform,4500.00,Sales & Marketing Tools,2024-01-18,INV-2008,Marketing
+6sense ABM Platform,4500.00,Sales & Marketing Tools,2024-02-18,INV-2052,Marketing
+6sense ABM Platform,4500.00,Sales & Marketing Tools,2024-03-18,INV-2098,Marketing
+6sense ABM Platform,4500.00,Sales & Marketing Tools,2024-04-18,INV-2141,Marketing
+6sense ABM Platform,4500.00,Sales & Marketing Tools,2024-05-18,INV-2185,Marketing
+6sense ABM Platform,4500.00,Sales & Marketing Tools,2024-06-18,INV-2230,Marketing
+6sense ABM Platform,4500.00,Sales & Marketing Tools,2024-07-18,INV-2274,Marketing
+6sense ABM Platform,4500.00,Sales & Marketing Tools,2024-08-18,INV-2319,Marketing
+6sense ABM Platform,4500.00,Sales & Marketing Tools,2024-09-18,INV-2363,Marketing
+6sense ABM Platform,4500.00,Sales & Marketing Tools,2024-10-18,INV-2408,Marketing
+6sense ABM Platform,4500.00,Sales & Marketing Tools,2024-11-18,INV-2452,Marketing
+6sense ABM Platform,4500.00,Sales & Marketing Tools,2024-12-18,INV-2497,Marketing
+GitHub Enterprise,3600.00,Engineering Tools,2024-01-03,INV-2009,Engineering
+GitHub Enterprise,3600.00,Engineering Tools,2024-02-03,INV-2053,Engineering
+GitHub Enterprise,3600.00,Engineering Tools,2024-03-03,INV-2099,Engineering
+GitHub Enterprise,3600.00,Engineering Tools,2024-04-03,INV-2142,Engineering
+GitHub Enterprise,3600.00,Engineering Tools,2024-05-03,INV-2186,Engineering
+GitHub Enterprise,3600.00,Engineering Tools,2024-06-03,INV-2231,Engineering
+GitHub Enterprise,3600.00,Engineering Tools,2024-07-03,INV-2275,Engineering
+GitHub Enterprise,3600.00,Engineering Tools,2024-08-03,INV-2320,Engineering
+GitHub Enterprise,3600.00,Engineering Tools,2024-09-03,INV-2364,Engineering
+GitHub Enterprise,3600.00,Engineering Tools,2024-10-03,INV-2409,Engineering
+GitHub Enterprise,3600.00,Engineering Tools,2024-11-03,INV-2453,Engineering
+GitHub Enterprise,3600.00,Engineering Tools,2024-12-03,INV-2498,Engineering
+Jira Software,2400.00,Engineering Tools,2024-01-06,INV-2010,Engineering
+Jira Software,2400.00,Engineering Tools,2024-02-06,INV-2054,Engineering
+Jira Software,2400.00,Engineering Tools,2024-03-06,INV-2100,Engineering
+Jira Software,2400.00,Engineering Tools,2024-04-06,INV-2143,Engineering
+Jira Software,2400.00,Engineering Tools,2024-05-06,INV-2187,Engineering
+Jira Software,2400.00,Engineering Tools,2024-06-06,INV-2232,Engineering
+Jira Software,2400.00,Engineering Tools,2024-07-06,INV-2276,Engineering
+Jira Software,2400.00,Engineering Tools,2024-08-06,INV-2321,Engineering
+Jira Software,2400.00,Engineering Tools,2024-09-06,INV-2365,Engineering
+Jira Software,2400.00,Engineering Tools,2024-10-06,INV-2410,Engineering
+Jira Software,2400.00,Engineering Tools,2024-11-06,INV-2454,Engineering
+Jira Software,2400.00,Engineering Tools,2024-12-06,INV-2499,Engineering
+Linear,950.00,Engineering Tools,2024-01-22,INV-2011,Engineering
+Linear,950.00,Engineering Tools,2024-02-22,INV-2055,Engineering
+Linear,950.00,Engineering Tools,2024-03-22,INV-2101,Engineering
+Linear,950.00,Engineering Tools,2024-04-22,INV-2144,Engineering
+Linear,950.00,Engineering Tools,2024-05-22,INV-2188,Engineering
+Linear,950.00,Engineering Tools,2024-06-22,INV-2233,Engineering
+Linear,950.00,Engineering Tools,2024-07-22,INV-2277,Engineering
+Linear,950.00,Engineering Tools,2024-08-22,INV-2322,Engineering
+Linear,950.00,Engineering Tools,2024-09-22,INV-2366,Engineering
+Linear,950.00,Engineering Tools,2024-10-22,INV-2411,Engineering
+Linear,950.00,Engineering Tools,2024-11-22,INV-2455,Engineering
+Linear,950.00,Engineering Tools,2024-12-22,INV-2500,Engineering
+Rippling HR,6200.00,People & HR,2024-01-01,INV-2012,People Ops
+Rippling HR,6200.00,People & HR,2024-02-01,INV-2056,People Ops
+Rippling HR,6200.00,People & HR,2024-03-01,INV-2102,People Ops
+Rippling HR,6400.00,People & HR,2024-04-01,INV-2145,People Ops
+Rippling HR,6400.00,People & HR,2024-05-01,INV-2189,People Ops
+Rippling HR,6400.00,People & HR,2024-06-01,INV-2234,People Ops
+Rippling HR,6600.00,People & HR,2024-07-01,INV-2278,People Ops
+Rippling HR,6600.00,People & HR,2024-08-01,INV-2323,People Ops
+Rippling HR,6600.00,People & HR,2024-09-01,INV-2367,People Ops
+Rippling HR,6800.00,People & HR,2024-10-01,INV-2412,People Ops
+Rippling HR,6800.00,People & HR,2024-11-01,INV-2456,People Ops
+Rippling HR,6800.00,People & HR,2024-12-01,INV-2501,People Ops
+Lattice Performance,1800.00,People & HR,2024-01-14,INV-2013,People Ops
+Lattice Performance,1800.00,People & HR,2024-02-14,INV-2057,People Ops
+Lattice Performance,1800.00,People & HR,2024-03-14,INV-2103,People Ops
+Lattice Performance,1800.00,People & HR,2024-04-14,INV-2146,People Ops
+Lattice Performance,1800.00,People & HR,2024-05-14,INV-2190,People Ops
+Lattice Performance,1800.00,People & HR,2024-06-14,INV-2235,People Ops
+Lattice Performance,1800.00,People & HR,2024-07-14,INV-2279,People Ops
+Lattice Performance,1800.00,People & HR,2024-08-14,INV-2324,People Ops
+Lattice Performance,1800.00,People & HR,2024-09-14,INV-2368,People Ops
+Lattice Performance,1800.00,People & HR,2024-10-14,INV-2413,People Ops
+Lattice Performance,1800.00,People & HR,2024-11-14,INV-2457,People Ops
+Lattice Performance,1800.00,People & HR,2024-12-14,INV-2502,People Ops
+Greenhouse Recruiting,3400.00,People & HR,2024-01-16,INV-2014,People Ops
+Greenhouse Recruiting,3400.00,People & HR,2024-02-16,INV-2058,People Ops
+Greenhouse Recruiting,3400.00,People & HR,2024-03-16,INV-2104,People Ops
+Greenhouse Recruiting,3400.00,People & HR,2024-04-16,INV-2147,People Ops
+Greenhouse Recruiting,3400.00,People & HR,2024-05-16,INV-2191,People Ops
+Greenhouse Recruiting,3400.00,People & HR,2024-06-16,INV-2236,People Ops
+Greenhouse Recruiting,3400.00,People & HR,2024-07-16,INV-2280,People Ops
+Greenhouse Recruiting,3400.00,People & HR,2024-08-16,INV-2325,People Ops
+Greenhouse Recruiting,3400.00,People & HR,2024-09-16,INV-2369,People Ops
+Greenhouse Recruiting,3400.00,People & HR,2024-10-16,INV-2414,People Ops
+Greenhouse Recruiting,3400.00,People & HR,2024-11-16,INV-2458,People Ops
+Greenhouse Recruiting,3400.00,People & HR,2024-12-16,INV-2503,People Ops
+Snowflake Data,7500.00,Data & Analytics,2024-01-11,INV-2015,Engineering
+Snowflake Data,7500.00,Data & Analytics,2024-02-11,INV-2059,Engineering
+Snowflake Data,7800.00,Data & Analytics,2024-03-11,INV-2105,Engineering
+Snowflake Data,7800.00,Data & Analytics,2024-04-11,INV-2148,Engineering
+Snowflake Data,8200.00,Data & Analytics,2024-05-11,INV-2192,Engineering
+Snowflake Data,8200.00,Data & Analytics,2024-06-11,INV-2237,Engineering
+Snowflake Data,8600.00,Data & Analytics,2024-07-11,INV-2281,Engineering
+Snowflake Data,8600.00,Data & Analytics,2024-08-11,INV-2326,Engineering
+Snowflake Data,9100.00,Data & Analytics,2024-09-11,INV-2370,Engineering
+Snowflake Data,9100.00,Data & Analytics,2024-10-11,INV-2415,Engineering
+Snowflake Data,9500.00,Data & Analytics,2024-11-11,INV-2459,Engineering
+Snowflake Data,9500.00,Data & Analytics,2024-12-11,INV-2504,Engineering
+Looker Analytics,3200.00,Data & Analytics,2024-01-19,INV-2016,Engineering
+Looker Analytics,3200.00,Data & Analytics,2024-02-19,INV-2060,Engineering
+Looker Analytics,3200.00,Data & Analytics,2024-03-19,INV-2106,Engineering
+Looker Analytics,3200.00,Data & Analytics,2024-04-19,INV-2149,Engineering
+Looker Analytics,3200.00,Data & Analytics,2024-05-19,INV-2193,Engineering
+Looker Analytics,3200.00,Data & Analytics,2024-06-19,INV-2238,Engineering
+Looker Analytics,3200.00,Data & Analytics,2024-07-19,INV-2282,Engineering
+Looker Analytics,3200.00,Data & Analytics,2024-08-19,INV-2327,Engineering
+Looker Analytics,3200.00,Data & Analytics,2024-09-19,INV-2371,Engineering
+Looker Analytics,3200.00,Data & Analytics,2024-10-19,INV-2416,Engineering
+Looker Analytics,3200.00,Data & Analytics,2024-11-19,INV-2460,Engineering
+Looker Analytics,3200.00,Data & Analytics,2024-12-19,INV-2505,Engineering
+Amplitude Analytics,2200.00,Data & Analytics,2024-01-25,INV-2017,Product
+Amplitude Analytics,2200.00,Data & Analytics,2024-02-25,INV-2061,Product
+Amplitude Analytics,2200.00,Data & Analytics,2024-03-25,INV-2107,Product
+Amplitude Analytics,2200.00,Data & Analytics,2024-04-25,INV-2150,Product
+Amplitude Analytics,2200.00,Data & Analytics,2024-05-25,INV-2194,Product
+Amplitude Analytics,2200.00,Data & Analytics,2024-06-25,INV-2239,Product
+Amplitude Analytics,2200.00,Data & Analytics,2024-07-25,INV-2283,Product
+Amplitude Analytics,2200.00,Data & Analytics,2024-08-25,INV-2328,Product
+Amplitude Analytics,2200.00,Data & Analytics,2024-09-25,INV-2372,Product
+Amplitude Analytics,2200.00,Data & Analytics,2024-10-25,INV-2417,Product
+Amplitude Analytics,2200.00,Data & Analytics,2024-11-25,INV-2461,Product
+Amplitude Analytics,2200.00,Data & Analytics,2024-12-25,INV-2506,Product
+Zendesk Support,4100.00,Customer Success,2024-01-07,INV-2018,CS
+Zendesk Support,4100.00,Customer Success,2024-02-07,INV-2062,CS
+Zendesk Support,4100.00,Customer Success,2024-03-07,INV-2108,CS
+Zendesk Support,4300.00,Customer Success,2024-04-07,INV-2151,CS
+Zendesk Support,4300.00,Customer Success,2024-05-07,INV-2195,CS
+Zendesk Support,4300.00,Customer Success,2024-06-07,INV-2240,CS
+Zendesk Support,4500.00,Customer Success,2024-07-07,INV-2284,CS
+Zendesk Support,4500.00,Customer Success,2024-08-07,INV-2329,CS
+Zendesk Support,4500.00,Customer Success,2024-09-07,INV-2373,CS
+Zendesk Support,4700.00,Customer Success,2024-10-07,INV-2418,CS
+Zendesk Support,4700.00,Customer Success,2024-11-07,INV-2462,CS
+Zendesk Support,4700.00,Customer Success,2024-12-07,INV-2507,CS
+Gainsight CS,3800.00,Customer Success,2024-01-13,INV-2019,CS
+Gainsight CS,3800.00,Customer Success,2024-02-13,INV-2063,CS
+Gainsight CS,3800.00,Customer Success,2024-03-13,INV-2109,CS
+Gainsight CS,3800.00,Customer Success,2024-04-13,INV-2152,CS
+Gainsight CS,3800.00,Customer Success,2024-05-13,INV-2196,CS
+Gainsight CS,3800.00,Customer Success,2024-06-13,INV-2241,CS
+Gainsight CS,3800.00,Customer Success,2024-07-13,INV-2285,CS
+Gainsight CS,3800.00,Customer Success,2024-08-13,INV-2330,CS
+Gainsight CS,3800.00,Customer Success,2024-09-13,INV-2374,CS
+Gainsight CS,3800.00,Customer Success,2024-10-13,INV-2419,CS
+Gainsight CS,3800.00,Customer Success,2024-11-13,INV-2463,CS
+Gainsight CS,3800.00,Customer Success,2024-12-13,INV-2508,CS
+Cooley LLP,12000.00,Legal & Compliance,2024-03-15,INV-2070,Legal
+Cooley LLP,8500.00,Legal & Compliance,2024-06-15,INV-2210,Legal
+Cooley LLP,15000.00,Legal & Compliance,2024-09-15,INV-2350,Legal
+Cooley LLP,9500.00,Legal & Compliance,2024-12-15,INV-2485,Legal
+Vanta Compliance,1400.00,Legal & Compliance,2024-01-28,INV-2020,Engineering
+Vanta Compliance,1400.00,Legal & Compliance,2024-02-28,INV-2064,Engineering
+Vanta Compliance,1400.00,Legal & Compliance,2024-03-28,INV-2110,Engineering
+Vanta Compliance,1400.00,Legal & Compliance,2024-04-28,INV-2153,Engineering
+Vanta Compliance,1400.00,Legal & Compliance,2024-05-28,INV-2197,Engineering
+Vanta Compliance,1400.00,Legal & Compliance,2024-06-28,INV-2242,Engineering
+Vanta Compliance,1400.00,Legal & Compliance,2024-07-28,INV-2286,Engineering
+Vanta Compliance,1400.00,Legal & Compliance,2024-08-28,INV-2331,Engineering
+Vanta Compliance,1400.00,Legal & Compliance,2024-09-28,INV-2375,Engineering
+Vanta Compliance,1400.00,Legal & Compliance,2024-10-28,INV-2420,Engineering
+Vanta Compliance,1400.00,Legal & Compliance,2024-11-28,INV-2464,Engineering
+Vanta Compliance,1400.00,Legal & Compliance,2024-12-28,INV-2509,Engineering
+WeWork Offices,18500.00,Facilities & Office,2024-01-01,INV-2021,Operations
+WeWork Offices,18500.00,Facilities & Office,2024-02-01,INV-2065,Operations
+WeWork Offices,18500.00,Facilities & Office,2024-03-01,INV-2111,Operations
+WeWork Offices,18500.00,Facilities & Office,2024-04-01,INV-2154,Operations
+WeWork Offices,18500.00,Facilities & Office,2024-05-01,INV-2198,Operations
+WeWork Offices,18500.00,Facilities & Office,2024-06-01,INV-2243,Operations
+WeWork Offices,18500.00,Facilities & Office,2024-07-01,INV-2287,Operations
+WeWork Offices,18500.00,Facilities & Office,2024-08-01,INV-2332,Operations
+WeWork Offices,18500.00,Facilities & Office,2024-09-01,INV-2376,Operations
+WeWork Offices,18500.00,Facilities & Office,2024-10-01,INV-2421,Operations
+WeWork Offices,18500.00,Facilities & Office,2024-11-01,INV-2465,Operations
+WeWork Offices,18500.00,Facilities & Office,2024-12-01,INV-2510,Operations
+Envoy Workplace,450.00,Facilities & Office,2024-01-09,INV-2022,Operations
+Envoy Workplace,450.00,Facilities & Office,2024-02-09,INV-2066,Operations
+Envoy Workplace,450.00,Facilities & Office,2024-03-09,INV-2112,Operations
+Envoy Workplace,450.00,Facilities & Office,2024-04-09,INV-2155,Operations
+Envoy Workplace,450.00,Facilities & Office,2024-05-09,INV-2199,Operations
+Envoy Workplace,450.00,Facilities & Office,2024-06-09,INV-2244,Operations
+Envoy Workplace,450.00,Facilities & Office,2024-07-09,INV-2288,Operations
+Envoy Workplace,450.00,Facilities & Office,2024-08-09,INV-2333,Operations
+Envoy Workplace,450.00,Facilities & Office,2024-09-09,INV-2377,Operations
+Envoy Workplace,450.00,Facilities & Office,2024-10-09,INV-2422,Operations
+Envoy Workplace,450.00,Facilities & Office,2024-11-09,INV-2466,Operations
+Envoy Workplace,450.00,Facilities & Office,2024-12-09,INV-2511,Operations
+Slack Business+,2800.00,Collaboration & Productivity,2024-01-04,INV-2023,IT
+Slack Business+,2800.00,Collaboration & Productivity,2024-02-04,INV-2067,IT
+Slack Business+,2800.00,Collaboration & Productivity,2024-03-04,INV-2113,IT
+Slack Business+,2800.00,Collaboration & Productivity,2024-04-04,INV-2156,IT
+Slack Business+,2800.00,Collaboration & Productivity,2024-05-04,INV-2200,IT
+Slack Business+,2800.00,Collaboration & Productivity,2024-06-04,INV-2245,IT
+Slack Business+,2800.00,Collaboration & Productivity,2024-07-04,INV-2289,IT
+Slack Business+,2800.00,Collaboration & Productivity,2024-08-04,INV-2334,IT
+Slack Business+,2800.00,Collaboration & Productivity,2024-09-04,INV-2378,IT
+Slack Business+,2800.00,Collaboration & Productivity,2024-10-04,INV-2423,IT
+Slack Business+,2800.00,Collaboration & Productivity,2024-11-04,INV-2467,IT
+Slack Business+,2800.00,Collaboration & Productivity,2024-12-04,INV-2512,IT
+Notion Team,1100.00,Collaboration & Productivity,2024-01-17,INV-2024,IT
+Notion Team,1100.00,Collaboration & Productivity,2024-02-17,INV-2068,IT
+Notion Team,1100.00,Collaboration & Productivity,2024-03-17,INV-2114,IT
+Notion Team,1100.00,Collaboration & Productivity,2024-04-17,INV-2157,IT
+Notion Team,1100.00,Collaboration & Productivity,2024-05-17,INV-2201,IT
+Notion Team,1100.00,Collaboration & Productivity,2024-06-17,INV-2246,IT
+Notion Team,1100.00,Collaboration & Productivity,2024-07-17,INV-2290,IT
+Notion Team,1100.00,Collaboration & Productivity,2024-08-17,INV-2335,IT
+Notion Team,1100.00,Collaboration & Productivity,2024-09-17,INV-2379,IT
+Notion Team,1100.00,Collaboration & Productivity,2024-10-17,INV-2424,IT
+Notion Team,1100.00,Collaboration & Productivity,2024-11-17,INV-2468,IT
+Notion Team,1100.00,Collaboration & Productivity,2024-12-17,INV-2513,IT
+Confluence,800.00,Collaboration & Productivity,2024-01-23,INV-2025,IT
+Confluence,800.00,Collaboration & Productivity,2024-02-23,INV-2069,IT
+Confluence,800.00,Collaboration & Productivity,2024-03-23,INV-2115,IT
+Confluence,800.00,Collaboration & Productivity,2024-04-23,INV-2158,IT
+Confluence,800.00,Collaboration & Productivity,2024-05-23,INV-2202,IT
+Confluence,800.00,Collaboration & Productivity,2024-06-23,INV-2247,IT
+Confluence,800.00,Collaboration & Productivity,2024-07-23,INV-2291,IT
+Confluence,800.00,Collaboration & Productivity,2024-08-23,INV-2336,IT
+Confluence,800.00,Collaboration & Productivity,2024-09-23,INV-2380,IT
+Confluence,800.00,Collaboration & Productivity,2024-10-23,INV-2425,IT
+Confluence,800.00,Collaboration & Productivity,2024-11-23,INV-2469,IT
+Confluence,800.00,Collaboration & Productivity,2024-12-23,INV-2514,IT
+Okta Identity,1600.00,Security & IT,2024-01-02,INV-2026,IT
+Okta Identity,1600.00,Security & IT,2024-02-02,INV-2071,IT
+Okta Identity,1600.00,Security & IT,2024-03-02,INV-2116,IT
+Okta Identity,1600.00,Security & IT,2024-04-02,INV-2159,IT
+Okta Identity,1600.00,Security & IT,2024-05-02,INV-2203,IT
+Okta Identity,1600.00,Security & IT,2024-06-02,INV-2248,IT
+Okta Identity,1600.00,Security & IT,2024-07-02,INV-2292,IT
+Okta Identity,1600.00,Security & IT,2024-08-02,INV-2337,IT
+Okta Identity,1600.00,Security & IT,2024-09-02,INV-2381,IT
+Okta Identity,1600.00,Security & IT,2024-10-02,INV-2426,IT
+Okta Identity,1600.00,Security & IT,2024-11-02,INV-2470,IT
+Okta Identity,1600.00,Security & IT,2024-12-02,INV-2515,IT
+CrowdStrike Endpoint,2200.00,Security & IT,2024-01-21,INV-2027,IT
+CrowdStrike Endpoint,2200.00,Security & IT,2024-02-21,INV-2072,IT
+CrowdStrike Endpoint,2200.00,Security & IT,2024-03-21,INV-2117,IT
+CrowdStrike Endpoint,2200.00,Security & IT,2024-04-21,INV-2160,IT
+CrowdStrike Endpoint,2200.00,Security & IT,2024-05-21,INV-2204,IT
+CrowdStrike Endpoint,2200.00,Security & IT,2024-06-21,INV-2249,IT
+CrowdStrike Endpoint,2200.00,Security & IT,2024-07-21,INV-2293,IT
+CrowdStrike Endpoint,2200.00,Security & IT,2024-08-21,INV-2338,IT
+CrowdStrike Endpoint,2200.00,Security & IT,2024-09-21,INV-2382,IT
+CrowdStrike Endpoint,2200.00,Security & IT,2024-10-21,INV-2427,IT
+CrowdStrike Endpoint,2200.00,Security & IT,2024-11-21,INV-2471,IT
+CrowdStrike Endpoint,2200.00,Security & IT,2024-12-21,INV-2516,IT
+KPMG Advisory,18000.00,Professional Services,2024-03-20,INV-2080,Finance
+KPMG Advisory,22000.00,Professional Services,2024-06-20,INV-2220,Finance
+KPMG Advisory,18000.00,Professional Services,2024-09-20,INV-2355,Finance
+KPMG Advisory,24000.00,Professional Services,2024-12-20,INV-2488,Finance
+Stripe Payments,3400.00,Payments & Billing,2024-01-26,INV-2028,Finance
+Stripe Payments,3600.00,Payments & Billing,2024-02-26,INV-2073,Finance
+Stripe Payments,3500.00,Payments & Billing,2024-03-26,INV-2118,Finance
+Stripe Payments,3800.00,Payments & Billing,2024-04-26,INV-2161,Finance
+Stripe Payments,3700.00,Payments & Billing,2024-05-26,INV-2205,Finance
+Stripe Payments,4100.00,Payments & Billing,2024-06-26,INV-2250,Finance
+Stripe Payments,4000.00,Payments & Billing,2024-07-26,INV-2294,Finance
+Stripe Payments,4300.00,Payments & Billing,2024-08-26,INV-2339,Finance
+Stripe Payments,4200.00,Payments & Billing,2024-09-26,INV-2383,Finance
+Stripe Payments,4500.00,Payments & Billing,2024-10-26,INV-2428,Finance
+Stripe Payments,4400.00,Payments & Billing,2024-11-26,INV-2472,Finance
+Stripe Payments,4800.00,Payments & Billing,2024-12-26,INV-2517,Finance
