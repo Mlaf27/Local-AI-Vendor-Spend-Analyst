@@ -345,15 +345,15 @@ You should see:
 
 ## Usage Guide
 
-1. **Overview Tab** — Start here. Review the KPI cards for total spend, monthly average, top category, and the number of active risk alerts.
+1. **Overview Tab** : Start here. Review the KPI cards for total spend, monthly average, top category, and the number of active risk alerts.
 
-2. **Vendors Tab** — Scan the vendor list. Look for red **RISK** badges (vendors with >15% spend increase). Click **"Take Action"** on any vendor to open the AI analysis drawer.
+2. **Vendors Tab** : Scan the vendor list. Look for red **RISK** badges (vendors with >15% spend increase). Click **"Take Action"** on any vendor to open the AI analysis drawer.
 
-3. **AI Drawer** — The AI will automatically analyze the selected vendor's spend trend. Ask follow-up questions like *"Should we renegotiate?"* or *"What alternatives exist?"*. When satisfied, click **"Auto-Summarize & Save to Report"** to log a structured decision.
+3. **AI Drawer** : The AI will automatically analyze the selected vendor's spend trend. Ask follow-up questions like *"Should we renegotiate?"* or *"What alternatives exist?"*. When satisfied, click **"Auto-Summarize & Save to Report"** to log a structured decision.
 
-4. **Analysis Tab** — Use the vendor dropdown to view any vendor's month-by-month spend as an interactive chart. Useful for spotting seasonal patterns or step-function increases.
+4. **Analysis Tab** : Use the vendor dropdown to view any vendor's month-by-month spend as an interactive chart. Useful for spotting seasonal patterns or step-function increases.
 
-5. **Export** — Once you've reviewed and logged decisions for one or more vendors, click the **"Export Report (.doc)"** button in the top header to download a formatted Word document.
+5. **Export** : Once you've reviewed and logged decisions for one or more vendors, click the **"Export Report (.doc)"** button in the top header to download a formatted Word document.
 
 ---
 
