@@ -1,6 +1,6 @@
 # Local AI Vendor Spend Analyst
 
-> **A privacy-first financial intelligence dashboard that uses a local AI model (Mistral 7B via Ollama) to analyze SaaS vendor spending, flag cost anomalies, and generate executive-ready decision reports — all without sending a single byte to the cloud.**
+> **A privacy-first financial intelligence dashboard that uses a local AI model (Mistral 7B via Ollama) to analyze SaaS vendor spending, flag cost anomalies, and generate executive-ready decision reports, all without sending a single byte to the cloud.**
 
 ![Dashboard Overview](./image/Overview_Dashboard.png)
 
@@ -25,9 +25,9 @@
 
 ## Project Overview
 
-**Local AI Vendor Spend Analyst** is a B2B fintech MVP that helps finance teams understand *where their money goes* across SaaS vendors — and more importantly, *why costs are rising*.
+**Local AI Vendor Spend Analyst** is a B2B fintech MVP that helps finance teams understand *where their money goes* across SaaS vendors, and more importantly, *why costs are rising*.
 
-Most companies manage 50–200+ SaaS subscriptions. Spend creep (gradual, unnoticed cost increases) is one of the biggest hidden drains on operating budgets. This tool surfaces those trends automatically, lets users investigate with an AI copilot, and produces structured reports for stakeholders.
+Most companies manage 50-200+ SaaS subscriptions. Spend creep (gradual, unnoticed cost increases) is one of the biggest hidden drains on operating budgets. This tool surfaces those trends automatically, lets users investigate with an AI copilot, and produces structured reports for stakeholders.
 
 The critical differentiator: **everything runs locally**. The AI engine (Mistral 7B) is served via [Ollama](https://ollama.ai) on the user's own machine. No API keys. No cloud inference. No data leaves the building.
 
@@ -37,9 +37,9 @@ The critical differentiator: **everything runs locally**. The AI engine (Mistral
 
 In B2B finance, three problems recur constantly:
 
-1. **Spend Visibility** — Finance teams lack a unified view of vendor costs across departments and categories.
-2. **Spend Creep** — Vendors increase prices 5–15% annually, often unnoticed until budget reviews.
-3. **Decision Documentation** — When action *is* taken, the rationale rarely makes it into a structured record.
+1. **Spend Visibility** : Finance teams lack a unified view of vendor costs across departments and categories.
+2. **Spend Creep** : Vendors increase prices 5–15% annually, often unnoticed until budget reviews.
+3. **Decision Documentation** : When action *is* taken, the rationale rarely makes it into a structured record.
 
 This project addresses all three in a single workflow: **See → Investigate → Decide → Document**.
 
@@ -49,11 +49,11 @@ The local-AI approach adds a fourth value: **data privacy**. For industries with
 
 ## Key Features
 
-### 100% Offline AI — No Cloud, No API Keys
+### 100% Offline AI : No Cloud, No API Keys
 The entire AI pipeline runs on your machine via Ollama + Mistral 7B. Your financial data never touches an external server.
 
 ### Executive Overview Dashboard
-KPI cards showing total annual spend, monthly averages, top spending categories, and active risk alerts — all computed in real-time from your CSV.
+KPI cards showing total annual spend, monthly averages, top spending categories, and active risk alerts, all computed in real-time from your CSV.
 
 ### Vendor Risk Table
 A sortable vendor list with computed spend trends (first-to-last invoice comparison), automatic **RISK** flagging for vendors with >15% cost increases, and status tracking for reviewed vendors.
@@ -65,7 +65,7 @@ Click any vendor to open a conversational side panel where Mistral 7B:
 - Maintains conversation history for the session
 
 ### Auto-Summarize to Decision Report
-One click converts the entire AI conversation into a structured summary with **Pain Points**, **Proposed Solutions**, and **Final Decision** — then saves it to an in-app report log.
+One click converts the entire AI conversation into a structured summary with **Pain Points**, **Proposed Solutions**, and **Final Decision**, then saves it to an in-app report log.
 
 ### Export to Word Document (.doc)
 All logged decisions can be exported as a formatted `.doc` file, ready to share with leadership, procurement, or audit teams.
