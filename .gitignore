@@ -1,4 +1,4 @@
 node_modules/
 .env
 dist/
-.vite/
+.vite/vendor-spend-backend/node_modules/
