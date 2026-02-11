@@ -2,7 +2,7 @@
 
 > **A privacy-first financial intelligence dashboard that uses a local AI model (Mistral 7B via Ollama) to analyze SaaS vendor spending, flag cost anomalies, and generate executive-ready decision reports — all without sending a single byte to the cloud.**
 
-![Dashboard Overview](./image/Overview Dashboard.png)
+![Dashboard Overview](./image/Overview_Dashboard.png)
 
 ---
 
