@@ -75,7 +75,7 @@ A dedicated Analysis tab with a dropdown selector to view any vendor's 12-month 
 
 ---
 
-## Screenshots
+## User Interface (UI)
 
 | Overview Dashboard | Vendors Table |
 |---|---|
