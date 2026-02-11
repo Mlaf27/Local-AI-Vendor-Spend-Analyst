@@ -83,7 +83,7 @@ A dedicated Analysis tab with a dropdown selector to view any vendor's 12-month 
 
 | AI "Take Action" Drawer | Analysis Deep Dive |
 |---|---|
-| ![Drawer](./image/Vendors_Tab_Take_Action_Chat_bot_.png) | ![Analysis](./image/Analysis_Tab.png) |
+| ![Drawer](./image/Vendors_Tab_Take_Action_Chat_bot.png) | ![Analysis](./image/Analysis_Tab.png) |
 
 ---
 
